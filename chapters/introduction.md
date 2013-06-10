@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introduction"
+title: "Chapter 1: Introduction"
 tags : [intro, beginner, jekyll, tutorial]
 description: "sss"
 ---
