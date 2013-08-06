@@ -18,6 +18,7 @@ To access your template website, you should have received a username and a passw
 * Chapter 4: Layout _under construction_
 * Chapter 5: Hosting and Domain names _under construction_
 * Chapter 6: Analytics _under construction_
+* [Chapter 7: Intranet](/chapters/intranet.html)
 
 
 
